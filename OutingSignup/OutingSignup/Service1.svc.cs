@@ -51,11 +51,11 @@ namespace OutingSignup
         {
             MailMessage msg = new MailMessage();
 
-            msg.From = new MailAddress("coltsbaseball44@gmail.com");
+            msg.From = new MailAddress("coltsbaseball44@gmail.com", "Coach Dennis");
             msg.To.Add(ReciverMail);
             msg.Bcc.Add("dennisic@mail.uc.edu");
             msg.Subject = "Stewart Woods Memorial Golf Outing Registration";
-            msg.Body = "Thank you for registering for our outing at Jaycee Golf Course Chillicothe on July 30, 2017. \r\nCaptain: " + captain + " with " + golfer2 + ", " + golfer3 + ", and " + golfer4;
+            msg.Body = "Thank you for registering for our outing at Jaycee Golf Course Chillicothe, Ohio on July 30, 2017. \r\nCaptain: " + captain + " with " + golfer2 + ", " + golfer3 + ", and " + golfer4;
             SmtpClient client = new SmtpClient();
             client.UseDefaultCredentials = true;
             client.Host = "smtp.gmail.com";
