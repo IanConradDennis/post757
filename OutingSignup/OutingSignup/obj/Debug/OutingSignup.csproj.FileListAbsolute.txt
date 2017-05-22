@@ -1,0 +1,6 @@
+c:\users\idennis\documents\visual studio 2017\Projects\OutingSignup\OutingSignup\bin\OutingSignup.dll.config
+c:\users\idennis\documents\visual studio 2017\Projects\OutingSignup\OutingSignup\bin\OutingSignup.dll
+c:\users\idennis\documents\visual studio 2017\Projects\OutingSignup\OutingSignup\bin\OutingSignup.pdb
+c:\users\idennis\documents\visual studio 2017\Projects\OutingSignup\OutingSignup\obj\Debug\OutingSignup.csprojResolveAssemblyReference.cache
+c:\users\idennis\documents\visual studio 2017\Projects\OutingSignup\OutingSignup\obj\Debug\OutingSignup.dll
+c:\users\idennis\documents\visual studio 2017\Projects\OutingSignup\OutingSignup\obj\Debug\OutingSignup.pdb
