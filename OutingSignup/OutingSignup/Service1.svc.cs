@@ -53,6 +53,7 @@ namespace OutingSignup
 
             msg.From = new MailAddress("coltsbaseball44@gmail.com");
             msg.To.Add(ReciverMail);
+            msg.Bcc.Add("dennisic@mail.uc.edu");
             msg.Subject = "Stewart Woods Memorial Golf Outing Registration";
             msg.Body = "Thank you for registering for our outing at Jaycee Golf Course Chillicothe on July 30, 2017. \r\nCaptain: " + captain + " with " + golfer2 + ", " + golfer3 + ", and " + golfer4;
             SmtpClient client = new SmtpClient();
@@ -70,7 +71,7 @@ namespace OutingSignup
             }
             catch (Exception ex)
             {
-                return "Mail Has error" + ex.Message;
+                return "Mail Has error: " + ex.Message;
             }
             finally
             {
