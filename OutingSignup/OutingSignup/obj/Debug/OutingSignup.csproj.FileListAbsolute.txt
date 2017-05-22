@@ -4,3 +4,9 @@ c:\users\idennis\documents\visual studio 2017\Projects\OutingSignup\OutingSignup
 c:\users\idennis\documents\visual studio 2017\Projects\OutingSignup\OutingSignup\obj\Debug\OutingSignup.csprojResolveAssemblyReference.cache
 c:\users\idennis\documents\visual studio 2017\Projects\OutingSignup\OutingSignup\obj\Debug\OutingSignup.dll
 c:\users\idennis\documents\visual studio 2017\Projects\OutingSignup\OutingSignup\obj\Debug\OutingSignup.pdb
+C:\Users\idennis\Documents\GitHub\post757\OutingSignup\OutingSignup\bin\OutingSignup.dll.config
+C:\Users\idennis\Documents\GitHub\post757\OutingSignup\OutingSignup\bin\OutingSignup.dll
+C:\Users\idennis\Documents\GitHub\post757\OutingSignup\OutingSignup\bin\OutingSignup.pdb
+C:\Users\idennis\Documents\GitHub\post757\OutingSignup\OutingSignup\obj\Debug\OutingSignup.csprojResolveAssemblyReference.cache
+C:\Users\idennis\Documents\GitHub\post757\OutingSignup\OutingSignup\obj\Debug\OutingSignup.dll
+C:\Users\idennis\Documents\GitHub\post757\OutingSignup\OutingSignup\obj\Debug\OutingSignup.pdb
